@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=")rV;:FQCM~.C_Jc0US:t" x="0" y="0"/><block type="device_forever" id="i+?saqbndq/!``iI~k9T" x="205" y="0"/><block type="device_button_event" id="=MqnqF4C*myL9j|V(cQ_" x="280" y="143"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="tKoyd~t6f=Xan8S`,{!1"><value name="text"><shadow type="text" id="sO?xX%#p{Eiku+6c}A{2"><field name="TEXT">Fish have scales.</field></shadow></value></block></statement></block><block type="device_gesture_event" id=":SZeYY-mn[,AKb:~cKaL" x="16" y="161"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="IkRo0d,y:.GUOkgLlI;d"><field name="LEDS">`
+        . . . # . 
+        . # # # . 
+        # # # # . 
+        . # # # . 
+        . . . # .
+        `</field><next><block type="device_show_leds" id="_h4?U*h@YiCL}n!6O/#{"><field name="LEDS">`
+        . . # . . 
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="KgE*G[qA-GLe-4rZ_whR"><field name="LEDS">`
+        . # . . . 
+        # # . . . 
+        # # . . . 
+        # # . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id=":_DRVDj_o;=7B4EuCuM?"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field><next><block type="device_show_leds" id="q(j?;mo4.VUJTO0#Kl8V"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block></xml>
